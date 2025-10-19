@@ -1,2 +1,2 @@
-# tailwind-mini-projects
+# pricing Cards project
 
